@@ -44,3 +44,5 @@ This project demonstrates a foundational implementation of a recommendation syst
 ##
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/15420d8d-9954-48c8-b604-0034d402de49)
+![Image](https://github.com/user-attachments/assets/045cbb9d-35c5-4c1e-8d56-335909ea593d)
